@@ -2,7 +2,7 @@ Simple-Newspaper-App
 ------------------------------------------------------------
 Live Version :
 -------------------------------------------
-- This website is already hosted so you can directly access it by this link : http://zed-newspaper.herokuapp.com/
+- This website is already hosted so you can directly access it through this link : http://zed-newspaper.herokuapp.com/
 ------------------------------------------------------------
 Installation :
 ----------------------------------------------------
